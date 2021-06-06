@@ -3,12 +3,12 @@ import '../styles/styles.scss'
 
 //import Components
 import Header from "../components/header"
-import Banner from "../components/banner"
+import Main from "../components/main"
 
 const IndexPage = () => (
   <div>
     <Header />
-    <Banner />
+    <Main />
   </div>
 )
 
